@@ -29,7 +29,7 @@ Table of Contents
   filtering of traffic before it reaches I2P.
  3. **[I2PSnark/Bittorrent](http://localhost:7657/torrents):** This is an I2P-Only bittorrent client, it never
   makes a connection to a peer over any other network,
- 4. **The Addressbook:** This is a simple, locally-defined list of
+ 4. **[The Addressbook](http://localhost:7657/dns):** This is a simple, locally-defined list of
   human-readable addresses and corresponding I2P addresses. It integrates
   with other applications to allow the user to use those human-readable
   addresses in place of those I2P addresses.
